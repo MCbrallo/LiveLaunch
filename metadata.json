@@ -1,0 +1,5 @@
+{
+  "name": "Launch Tracker",
+  "description": "Live space dashboard showing upcoming rocket launches worldwide with a countdown timer, and a filterable history of past launches.",
+  "requestFramePermissions": []
+}
